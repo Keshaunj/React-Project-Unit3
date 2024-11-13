@@ -59,4 +59,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repositories:**
    ```bash
-   git clone <https://github.com/Keshaunj/react-project-deliverables>
+   git clone https://github.com/Keshaunj/React-Project-Unit3.git
